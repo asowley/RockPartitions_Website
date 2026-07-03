@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Rock Partitions mark</title>
+  <desc id="desc">A compact RP monogram with partition frame lines.</desc>
+  <rect width="120" height="120" rx="10" fill="#171a1f"/>
+  <path d="M24 26h50c14 0 23 8 23 21 0 10-5 17-14 20l17 27H78L63 70H45v24H24V26Zm21 18v10h27c4 0 7-2 7-5s-3-5-7-5H45Z" fill="#f8bd24"/>
+  <path d="M25 94h70M25 26h70M25 26v68M95 26v68" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="square" opacity=".85"/>
+  <path d="M60 26v68" fill="none" stroke="#ffffff" stroke-width="4" opacity=".55"/>
+</svg>

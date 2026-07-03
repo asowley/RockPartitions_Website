@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Rock Partitions logo concept monogram</title>
+  <desc id="desc">An RP monogram badge with the Rock Partitions name.</desc>
+  <rect width="900" height="500" fill="#f6f7f8"/>
+  <g transform="translate(91 85)">
+    <rect width="260" height="260" rx="18" fill="#171a1f"/>
+    <path d="M58 64h103c33 0 54 19 54 48 0 22-11 39-32 47l39 64h-47l-34-57h-36v57H58V64Zm47 39v29h53c9 0 15-6 15-14 0-9-6-15-15-15h-53Z" fill="#f8bd24"/>
+    <path d="M58 225h156M58 64h156M58 64v161M214 64v161M136 64v161" fill="none" stroke="#ffffff" stroke-width="8" opacity=".72"/>
+  </g>
+  <g transform="translate(402 148)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="74" font-size="76" font-weight="900" fill="#171a1f">Rock</text>
+    <text x="0" y="146" font-size="68" font-weight="900" fill="#171a1f">Partitions</text>
+    <text x="3" y="198" font-size="22" font-weight="800" fill="#ad4d22">INTERIOR SYSTEMS CONTRACTOR</text>
+  </g>
+</svg>

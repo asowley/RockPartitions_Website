@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Rock Partitions logo concept ceiling grid</title>
+  <desc id="desc">A perspective ceiling grid logo for Rock Partitions.</desc>
+  <rect width="900" height="500" fill="#171a1f"/>
+  <g transform="translate(92 88)">
+    <path d="M8 180 160 28l244 64-150 178Z" fill="#222831"/>
+    <path d="M8 180 160 28M50 191 197 38M92 203 234 47M134 214 270 57M176 226 307 67M218 237 344 76M254 270 404 92M8 180l246 90M45 143l246 82M83 105l246 73M121 67l246 64M160 28l244 64" fill="none" stroke="#f8bd24" stroke-width="6" stroke-linecap="square"/>
+  </g>
+  <g transform="translate(117 328)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="58" font-weight="900" fill="#ffffff">ROCK PARTITIONS</text>
+    <text x="4" y="48" font-size="25" font-weight="700" fill="#cbd3dc">MF CEILINGS  |  SUSPENDED CEILINGS  |  DRYLINING</text>
+  </g>
+</svg>
