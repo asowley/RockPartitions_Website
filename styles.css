@@ -440,6 +440,12 @@ h3 {
     url("assets/images/commercial-fitout-hero.png") center / cover;
 }
 
+.legal-hero {
+  background:
+    linear-gradient(110deg, rgba(23, 26, 31, 0.98), rgba(23, 26, 31, 0.78)),
+    url("assets/images/commercial-fitout-hero.png") center / cover;
+}
+
 .split {
   display: grid;
   grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
@@ -518,6 +524,29 @@ h3 {
   margin-top: 8px;
   color: var(--teal);
   font-weight: 900;
+}
+
+.legal-content {
+  max-width: 920px;
+}
+
+.legal-content .rich-copy {
+  display: grid;
+  gap: 12px;
+}
+
+.legal-content h2 {
+  margin-top: 28px;
+  font-size: clamp(1.45rem, 2.5vw, 2.1rem);
+}
+
+.legal-content h3 {
+  margin-top: 16px;
+}
+
+.legal-content a {
+  color: var(--teal);
+  font-weight: 800;
 }
 
 .site-footer {
